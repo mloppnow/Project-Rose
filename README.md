@@ -13,7 +13,12 @@ Requirements:
 	2) Combine elements of both a tactical Board game and a trading card game in a manner that has both depth and is enjoyable
 	3) Provide full decks for each of the Four kingdoms that are balanced
 	4) Implmement the Grimm and the Wall of the kingdoms into the Game
-	5) Develop a in game rule book 
+	5) Develop a in game rule book that defines the parameters and structure of the game
 
 Goals:
-	1) 
+	1) Support Lan Coop
+	2) Implment AI so that players can play the game with less than 3 other players
+	3) Implmenent individual Models for each playable card
+	4) Implmenent particle effects for each effect card
+	5) Support online play
+	6) Create a deck building system 
