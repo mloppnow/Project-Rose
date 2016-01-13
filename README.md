@@ -1,5 +1,5 @@
 # Project-Rose
-# Author's: Adikan/Melanie
+Author's: Adikan/Melanie
 Project Rose is a virtual table-top game that combines aspects of both
 traditional strategic board games (Risk) and classic deck builders (Yu-Gi-Oh, Hearthstone).
 The game is based around the 2nd episode of the Rooster Teeth webseries RWBY and is inspired
