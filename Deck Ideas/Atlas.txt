@@ -1,0 +1,6 @@
+Schnee Characters:
+ - Schnee Dust Company Monopoly: Choose one player and take half of their dust
+ - Dust Expert: If all Atlas Key Points are possessed by the Atlas player, generate 3 dust per turn
+ - Beat Summon: Giant bear shows up and wrecks someone's shit (choose one key point and immediately gain possession of it unless a trap card specifically prevents it
+    		This should cost a lot of dust) 
+			Probably Winter 
